@@ -25,6 +25,6 @@ public class Main {
         //IO.println(Array_stat.calculate_avg(array2));
         int[] array3 = new int[0];
         //IO.println(Array_stat.calculate_avg(array3));
-
+        int a;
     }
 }
